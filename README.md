@@ -10,7 +10,7 @@ Desenvolvida com PHP (Laravel) + MySQL + Laravel Sanctum.
 - PHP 8.5 + Laravel 13
 - MySQL
 - Laravel Sanctum (autenticação por token)
-- Postman (testes)
+- Postman (coleção de testes incluída no repositório — importe o arquivo `postman_collection.json`)
 
 ---
 
